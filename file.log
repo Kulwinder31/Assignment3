@@ -1,0 +1,16 @@
+2021-06-29 23:35:02,343:WARNING:START time : 0.5111427
+2021-06-29 23:35:02,343:INFO:Addition of two numbers
+2021-06-29 23:35:02,343:DEBUG:ADD: 3 6 9
+2021-06-29 23:35:02,343:INFO:Subtraction of two numbers
+2021-06-29 23:35:02,343:DEBUG:SUB: 3 6 -3
+2021-06-29 23:35:02,343:INFO:Multiplication of two numbers
+2021-06-29 23:35:02,343:DEBUG:MUL: 3 6 18
+2021-06-29 23:35:02,343:INFO:DIvision of two numbers
+2021-06-29 23:35:02,343:DEBUG:DIV: 3 6 0.5
+2021-06-29 23:35:02,343:CRITICAL:Exception occured: 
+Traceback (most recent call last):
+  File "F:/CSAT/SEM2/ET/Assignment3/main.py", line 40, in <module>
+    sum = a/b
+ZeroDivisionError: division by zero
+2021-06-29 23:35:02,343:CRITICAL:All Unit Test cases executed
+2021-06-29 23:35:02,343:WARNING:END time : 0.5131479
